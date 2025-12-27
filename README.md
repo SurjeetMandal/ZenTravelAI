@@ -1,5 +1,5 @@
 🌏 ZenTravel AI — Your Personal Travel Architect
-ZenTravel AI is a high-performance web application that automates travel planning. By leveraging the Gemini 1.5 Flash API, it transforms simple user preferences into structured, visual, and ready-to-use 3-day itineraries in seconds.
+ZenTravel AI is a high-performance web application that automates travel planning. By leveraging the Gemini 2.5 Flash API, it transforms simple user preferences into structured, visual, and ready-to-use 3-day itineraries in seconds.
 
 🚀 The Mission
 Planning a trip is often overwhelming. ZenTravel AI solves this by bridging the gap between raw AI intelligence and professional UI/UX design. It doesn't just give you text; it gives you a Visual Poster and a Structured Timeline for your next adventure.
