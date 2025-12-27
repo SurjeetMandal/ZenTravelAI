@@ -16,7 +16,7 @@ One-Click Share/Save: Integrated Web Share API and Blob-based image downloading 
 🛠️ Technical Stack
 Frontend: React 18, TypeScript, Tailwind CSS.
 
-AI Engine: Google Gemini 1.5 Flash.
+AI Engine: Google Gemini 2.5 Flash.
 
 Animations: Framer Motion.
 
